@@ -31,7 +31,7 @@
 6. Analysis and response
 
 
-_Ref 1: Non-credentialed Scan_
+
 
 
 
