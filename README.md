@@ -2,7 +2,7 @@
 # Vulnerability-Management-with-Nessus
 **Objective**
 
-- The objective of this project was to gain practical experience in Security Information and Event Management (SIEM) using Wazuh. By installing and configuring Wazuh along with both Windows and Linux agents, the aim was to centralize log collection and analysis, monitor security events, and generate alerts for potential security incidents. The project involved setting up the Wazuh manager, deploying agents, and configuring monitoring rules to enhance the security posture of the environment.
+- The objective of this project was to gain practical experience in Security Information and Event Management (SIEM) using Wazuh. By installing and configuring Wazuh along with both Windows and Linux agents, the aim was to centralize log collection and analysis, monitor security events, and generate alerts for potential security incidents. The project involved setting up the Wazuh manager, deploying agents, and configuring the system to enhance the security posture of the environment.
 
 
 **Skills Learned**
