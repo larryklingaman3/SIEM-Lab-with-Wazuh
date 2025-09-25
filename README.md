@@ -1,34 +1,33 @@
-# SIEM-Lab-with-Wazuh
-# Vulnerability-Management-with-Nessus
-**Objective**
+# SIEM Lab with Wazuh
 
-- The objective of this project was to gain practical experience in Security Information and Event Management (SIEM) using Wazuh. By installing and configuring Wazuh along with both Windows and Linux agents, the aim was to centralize log collection and analysis, monitor security events, and generate alerts for potential security incidents. The project involved setting up the Wazuh manager, deploying agents, and configuring the system to enhance the security posture of the environment.
+## Project Overview
+This lab provided hands-on experience with Security Information and Event Management (SIEM) using Wazuh. I installed and configured the Wazuh manager and deployed both Windows and Linux agents to centralize log collection, monitor security events, and generate alerts for potential incidents. The environment was configured to improve overall security posture through proactive monitoring and policy enforcement.
 
+## Key Achievements
+- Installed and configured Wazuh SIEM.  
+- Deployed and configured Windows and Linux agents for log collection.  
+- Centralized monitoring of system events and security alerts.  
+- Implemented security rules and policies to enhance protection.  
+- Analyzed events and responded to simulated security incidents.
 
-**Skills Learned**
+## Technical Skills Demonstrated
+- SIEM deployment and management with Wazuh.  
+- Log collection and analysis across heterogeneous systems.  
+- Security monitoring, alerting, and incident response.  
+- Policy creation and enforcement for proactive defense.  
+- Virtual machine management using VMware.
 
-- Installation and configuration of Wazuh SIEM.
-- Deployment and configuration of Windows and Linux agents.
-- Centralized log collection and analysis.
-- Monitoring security events and generating alerts.
-- Implementation of security rules and policies.
+## Process Summary
+1. Installed and configured the Wazuh manager.  
+2. Deployed Windows and Linux agents to target systems.  
+3. Centralized log collection from all agents.  
+4. Configured monitoring rules and alerting policies.  
+5. Implemented security policies and best practices.  
+6. Analyzed logs and responded to simulated incidents.
 
+## Outcome
+This project strengthened my ability to deploy and manage a SIEM solution, collect and analyze logs from multiple OS platforms, and implement proactive monitoring to improve security visibility and response.
 
-**Tools Used**
-
-- Wazuh for Security Information and Event Management.
-- Windows and Linux operating systems for agent deployment.
-- VMware for hosting virtual machines.
-
-
-**Steps**
-
-1. Installation and configuration of Wazuh.
-2. Deployment and configuration of agents.
-3. Centralized log collection
-4. Monitoring and alerts configuration
-5. Implementation of security policies
-6. Analysis and response
 
 _Ref 1_:Wazuh Dashboard
 ![wazuh8p](https://github.com/larryklingaman3/SIEM-Lab-with-Wazuh/assets/157419336/0047019c-4027-4206-94af-c0f24261d356)
