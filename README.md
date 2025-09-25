@@ -28,20 +28,13 @@ This lab provided hands-on experience with Security Information and Event Manage
 ## Outcome
 This project strengthened my ability to deploy and manage a SIEM solution, collect and analyze logs from multiple OS platforms, and implement proactive monitoring to improve security visibility and response.
 
+## Evidence  
 
-_Ref 1_:Wazuh Dashboard
-![wazuh8p](https://github.com/larryklingaman3/SIEM-Lab-with-Wazuh/assets/157419336/0047019c-4027-4206-94af-c0f24261d356)
-![wazuhp10](https://github.com/larryklingaman3/SIEM-Lab-with-Wazuh/assets/157419336/b24ec211-647b-49ce-b456-d05798dc8fc5)
+**Ref 1: Wazuh Dashboard**  
+![wazuh8p](https://github.com/larryklingaman3/SIEM-Lab-with-Wazuh/assets/157419336/0047019c-4027-4206-94af-c0f24261d356)  
+![wazuhp10](https://github.com/larryklingaman3/SIEM-Lab-with-Wazuh/assets/157419336/b24ec211-647b-49ce-b456-d05798dc8fc5)  
 
-_Ref 2_: Scans and Vulnerabilities
-![wazuhp6](https://github.com/larryklingaman3/SIEM-Lab-with-Wazuh/assets/157419336/a57d46b7-b1e3-4f84-b033-2e1ed7b464b9)
-![wazuhp5](https://github.com/larryklingaman3/SIEM-Lab-with-Wazuh/assets/157419336/b9a20e29-7f6e-4658-955e-efafb1d40db3)
-![wazuh9p](https://github.com/larryklingaman3/SIEM-Lab-with-Wazuh/assets/157419336/32146066-d39e-4897-a4f7-b9fb3548b834)
-
-
-
-
-
-
-
-
+**Ref 2: Scans and Vulnerabilities**  
+![wazuhp6](https://github.com/larryklingaman3/SIEM-Lab-with-Wazuh/assets/157419336/a57d46b7-b1e3-4f84-b033-2e1ed7b464b9)  
+![wazuhp5](https://github.com/larryklingaman3/SIEM-Lab-with-Wazuh/assets/157419336/b9a20e29-7f6e-4658-955e-efafb1d40db3)  
+![wazuh9p](https://github.com/larryklingaman3/SIEM-Lab-with-Wazuh/assets/157419336/32146066-d39e-4897-a4f7-b9fb3548b834)  
